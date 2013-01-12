@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Image Converter/Image Converter.iml" filepath="$PROJECT_DIR$/Image Converter/Image Converter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Image Uploader/Image Uploader.iml" filepath="$PROJECT_DIR$/Image Uploader/Image Uploader.iml" />
+    </modules>
+  </component>
+</project>
+
